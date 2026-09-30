@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Slack",
+    "src": "assets/plugins/directory/slack.svg",
+    "source": "https://svgl.app/library/slack.svg"
+  },
+  {
+    "name": "Gmail",
+    "src": "assets/plugins/directory/gmail.svg",
+    "source": "https://svgl.app/library/gmail.svg"
+  },
+  {
+    "name": "Google Drive",
+    "src": "assets/plugins/directory/google-drive.svg",
+    "source": "https://svgl.app/library/drive.svg"
+  },
+  {
+    "name": "Microsoft",
+    "src": "assets/plugins/directory/microsoft.svg",
+    "source": "https://svgl.app/library/microsoft.svg"
+  },
+  {
+    "name": "Salesforce",
+    "src": "assets/plugins/directory/salesforce.svg",
+    "source": "https://svgl.app/library/salesforce.svg"
+  },
+  {
+    "name": "Shopify",
+    "src": "assets/plugins/directory/shopify.svg",
+    "source": "https://svgl.app/library/shopify.svg"
+  },
+  {
+    "name": "Linear",
+    "src": "assets/plugins/directory/linear.svg",
+    "source": "https://svgl.app/library/linear.svg"
+  },
+  {
+    "name": "Discord",
+    "src": "assets/plugins/directory/discord.svg",
+    "source": "https://svgl.app/library/discord.svg"
+  },
+  {
+    "name": "Zoom",
+    "src": "assets/plugins/directory/zoom.svg",
+    "source": "https://svgl.app/library/zoom.svg"
+  },
+  {
+    "name": "Asana",
+    "src": "assets/plugins/directory/asana.svg",
+    "source": "https://svgl.app/library/asana-logo.svg"
+  },
+  {
+    "name": "GitLab",
+    "src": "assets/plugins/directory/gitlab.svg",
+    "source": "https://svgl.app/library/gitlab.svg"
+  },
+  {
+    "name": "Supabase",
+    "src": "assets/plugins/directory/supabase.svg",
+    "source": "https://svgl.app/library/supabase.svg"
+  },
+  {
+    "name": "Stripe",
+    "src": "assets/plugins/directory/stripe.svg",
+    "source": "https://svgl.app/library/stripe.svg"
+  },
+  {
+    "name": "PayPal",
+    "src": "assets/plugins/directory/paypal.svg",
+    "source": "https://svgl.app/library/paypal.svg"
+  },
+  {
+    "name": "Reddit",
+    "src": "assets/plugins/directory/reddit.svg",
+    "source": "https://svgl.app/library/reddit.svg"
+  },
+  {
+    "name": "Pinterest",
+    "src": "assets/plugins/directory/pinterest.svg",
+    "source": "https://svgl.app/library/pinterest.svg"
+  },
+  {
+    "name": "Google Calendar",
+    "src": "assets/plugins/directory/google-calendar.svg",
+    "source": "https://svgl.app/library/google-calendar.svg"
+  },
+  {
+    "name": "Google Sheets",
+    "src": "assets/plugins/directory/google-sheets.svg",
+    "source": "https://svgl.app/library/google-sheets.svg"
+  },
+  {
+    "name": "Webflow",
+    "src": "assets/plugins/directory/webflow.svg",
+    "source": "https://svgl.app/library/webflow.svg"
+  },
+  {
+    "name": "Dropbox",
+    "src": "assets/plugins/directory/dropbox.svg",
+    "source": "https://svgl.app/library/dropbox.svg"
+  },
+  {
+    "name": "Notion",
+    "src": "assets/plugins/directory/notion.svg",
+    "source": "https://svgl.app/library/notion.svg"
+  },
+  {
+    "name": "Figma",
+    "src": "assets/plugins/directory/figma.svg",
+    "source": "https://svgl.app/library/figma.svg"
+  },
+  {
+    "name": "Trello",
+    "src": "assets/plugins/directory/trello.svg",
+    "source": "https://svgl.app/library/trello.svg"
+  },
+  {
+    "name": "GitHub",
+    "src": "assets/plugins/directory/github.svg",
+    "source": "https://svgl.app/library/github_light.svg"
+  },
+  {
+    "name": "LinkedIn",
+    "src": "assets/plugins/directory/linkedin.svg",
+    "source": "https://svgl.app/library/linkedin.svg"
+  },
+  {
+    "name": "Google Analytics",
+    "src": "assets/plugins/directory/google-analytics.svg",
+    "source": "https://svgl.app/library/google-analytics.svg"
+  },
+  {
+    "name": "Microsoft Teams",
+    "src": "assets/plugins/directory/microsoft-teams.svg",
+    "source": "https://svgl.app/library/microsoft-teams.svg"
+  },
+  {
+    "name": "Microsoft Outlook",
+    "src": "assets/plugins/directory/microsoft-outlook.svg",
+    "source": "https://svgl.app/library/microsoft-outlook.svg"
+  },
+  {
+    "name": "Microsoft Excel",
+    "src": "assets/plugins/directory/microsoft-excel.svg",
+    "source": "https://svgl.app/library/microsoft-excel.svg"
+  },
+  {
+    "name": "Microsoft OneDrive",
+    "src": "assets/plugins/directory/microsoft-onedrive.svg",
+    "source": "https://svgl.app/library/microsoft-onedrive.svg"
+  },
+  {
+    "name": "Microsoft OneNote",
+    "src": "assets/plugins/directory/microsoft-onenote.svg",
+    "source": "https://svgl.app/library/microsoft-onenote.svg"
+  },
+  {
+    "name": "Microsoft SharePoint",
+    "src": "assets/plugins/directory/microsoft-sharepoint.svg",
+    "source": "https://svgl.app/library/microsoft-sharepoint.svg"
+  },
+  {
+    "name": "Microsoft Word",
+    "src": "assets/plugins/directory/microsoft-word.svg",
+    "source": "https://svgl.app/library/microsoft-word.svg"
+  },
+  {
+    "name": "Microsoft PowerPoint",
+    "src": "assets/plugins/directory/microsoft-powerpoint.svg",
+    "source": "https://svgl.app/library/microsoft-powerpoint.svg"
+  },
+  {
+    "name": "Google Meet",
+    "src": "assets/plugins/directory/google-meet.svg",
+    "source": "https://svgl.app/library/google-meet.svg"
+  },
+  {
+    "name": "Google Slides",
+    "src": "assets/plugins/directory/google-slides.svg",
+    "source": "https://svgl.app/library/google-slides.svg"
+  },
+  {
+    "name": "Google Chat",
+    "src": "assets/plugins/directory/google-chat.svg",
+    "source": "https://svgl.app/library/google-chat.svg"
+  },
+  {
+    "name": "Google Maps",
+    "src": "assets/plugins/directory/google-maps.svg",
+    "source": "https://svgl.app/library/googleMaps.svg"
+  },
+  {
+    "name": "Google Cloud",
+    "src": "assets/plugins/directory/google-cloud.svg",
+    "source": "https://svgl.app/library/google-cloud.svg"
+  },
+  {
+    "name": "Google Classroom",
+    "src": "assets/plugins/directory/google-classroom.svg",
+    "source": "https://svgl.app/library/google-classroom.svg"
+  },
+  {
+    "name": "Cal.com",
+    "src": "assets/plugins/directory/cal-com.svg",
+    "source": "https://svgl.app/library/cal.svg"
+  },
+  {
+    "name": "Calendly",
+    "src": "assets/plugins/directory/calendly.svg",
+    "source": "https://svgl.app/library/calendly.svg"
+  },
+  {
+    "name": "Todoist",
+    "src": "assets/plugins/directory/todoist.svg",
+    "source": "https://svgl.app/library/todoist.svg"
+  },
+  {
+    "name": "ClickUp",
+    "src": "assets/plugins/directory/clickup.svg",
+    "source": "https://svgl.app/library/clickup.svg"
+  },
+  {
+    "name": "Telegram",
+    "src": "assets/plugins/directory/telegram.svg",
+    "source": "https://svgl.app/library/telegram.svg"
+  },
+  {
+    "name": "WhatsApp",
+    "src": "assets/plugins/directory/whatsapp.svg",
+    "source": "https://svgl.app/library/whatsapp-icon.svg"
+  },
+  {
+    "name": "Facebook",
+    "src": "assets/plugins/directory/facebook.svg",
+    "source": "https://svgl.app/library/facebook-icon.svg"
+  },
+  {
+    "name": "Instagram",
+    "src": "assets/plugins/directory/instagram.svg",
+    "source": "https://svgl.app/library/instagram-icon.svg"
+  },
+  {
+    "name": "YouTube",
+    "src": "assets/plugins/directory/youtube.svg",
+    "source": "https://svgl.app/library/youtube.svg"
+  },
+  {
+    "name": "TikTok",
+    "src": "assets/plugins/directory/tiktok.svg",
+    "source": "https://svgl.app/library/tiktok-icon-light.svg"
+  },
+  {
+    "name": "Spotify",
+    "src": "assets/plugins/directory/spotify.svg",
+    "source": "https://svgl.app/library/spotify.svg"
+  },
+  {
+    "name": "SoundCloud",
+    "src": "assets/plugins/directory/soundcloud.svg",
+    "source": "https://svgl.app/library/soundcloud-logo.svg"
+  },
+  {
+    "name": "WordPress",
+    "src": "assets/plugins/directory/wordpress.svg",
+    "source": "https://svgl.app/library/wordpress.svg"
+  },
+  {
+    "name": "Framer",
+    "src": "assets/plugins/directory/framer.svg",
+    "source": "https://svgl.app/library/framer.svg"
+  },
+  {
+    "name": "Sanity",
+    "src": "assets/plugins/directory/sanity.svg",
+    "source": "https://svgl.app/library/sanity-light.svg"
+  },
+  {
+    "name": "Strapi",
+    "src": "assets/plugins/directory/strapi.svg",
+    "source": "https://svgl.app/library/strapi.svg"
+  },
+  {
+    "name": "Algolia",
+    "src": "assets/plugins/directory/algolia.svg",
+    "source": "https://svgl.app/library/algolia.svg"
+  },
+  {
+    "name": "PostHog",
+    "src": "assets/plugins/directory/posthog.svg",
+    "source": "https://svgl.app/library/posthog.svg"
+  },
+  {
+    "name": "Plausible Analytics",
+    "src": "assets/plugins/directory/plausible-analytics.svg",
+    "source": "https://svgl.app/library/plausible.svg"
+  },
+  {
+    "name": "Datadog",
+    "src": "assets/plugins/directory/datadog.svg",
+    "source": "https://svgl.app/library/datadog.svg"
+  },
+  {
+    "name": "Sentry",
+    "src": "assets/plugins/directory/sentry.svg",
+    "source": "https://svgl.app/library/sentry.svg"
+  },
+  {
+    "name": "Grafana",
+    "src": "assets/plugins/directory/grafana.svg",
+    "source": "https://svgl.app/library/grafana.svg"
+  },
+  {
+    "name": "Cloudinary",
+    "src": "assets/plugins/directory/cloudinary.svg",
+    "source": "https://svgl.app/library/cloudinary.svg"
+  },
+  {
+    "name": "Twilio",
+    "src": "assets/plugins/directory/twilio.svg",
+    "source": "https://svgl.app/library/twilio.svg"
+  },
+  {
+    "name": "Resend",
+    "src": "assets/plugins/directory/resend.svg",
+    "source": "https://svgl.app/library/resend-icon-black.svg"
+  },
+  {
+    "name": "OpenAI",
+    "src": "assets/plugins/directory/openai.svg",
+    "source": "https://svgl.app/library/openai.svg"
+  },
+  {
+    "name": "Anthropic",
+    "src": "assets/plugins/directory/anthropic.svg",
+    "source": "https://svgl.app/library/anthropic_black.svg"
+  },
+  {
+    "name": "Claude AI",
+    "src": "assets/plugins/directory/claude-ai.svg",
+    "source": "https://svgl.app/library/claude-ai-icon.svg"
+  },
+  {
+    "name": "Gemini",
+    "src": "assets/plugins/directory/gemini.svg",
+    "source": "https://svgl.app/library/gemini.svg"
+  },
+  {
+    "name": "Hugging Face",
+    "src": "assets/plugins/directory/hugging-face.svg",
+    "source": "https://svgl.app/library/hugging_face.svg"
+  },
+  {
+    "name": "Replicate",
+    "src": "assets/plugins/directory/replicate.svg",
+    "source": "https://svgl.app/library/replicate_light.svg"
+  },
+  {
+    "name": "DeepSeek",
+    "src": "assets/plugins/directory/deepseek.svg",
+    "source": "https://svgl.app/library/deepseek.svg"
+  },
+  {
+    "name": "Perplexity AI",
+    "src": "assets/plugins/directory/perplexity-ai.svg",
+    "source": "https://svgl.app/library/perplexity.svg"
+  },
+  {
+    "name": "Runway",
+    "src": "assets/plugins/directory/runway.svg",
+    "source": "https://svgl.app/library/runway.svg"
+  },
+  {
+    "name": "Mistral AI",
+    "src": "assets/plugins/directory/mistral-ai.svg",
+    "source": "https://svgl.app/library/mistral-ai_logo.svg"
+  },
+  {
+    "name": "Cohere",
+    "src": "assets/plugins/directory/cohere.svg",
+    "source": "https://svgl.app/library/cohere.svg"
+  },
+  {
+    "name": "Groq",
+    "src": "assets/plugins/directory/groq.svg",
+    "source": "https://svgl.app/library/groq.svg"
+  },
+  {
+    "name": "Firecrawl",
+    "src": "assets/plugins/directory/firecrawl.svg",
+    "source": "https://svgl.app/library/firecrawl.svg"
+  },
+  {
+    "name": "Apollo.io",
+    "src": "assets/plugins/directory/apollo-io.svg",
+    "source": "https://svgl.app/library/apollo-io.svg"
+  },
+  {
+    "name": "Mulesoft",
+    "src": "assets/plugins/directory/mulesoft.svg",
+    "source": "https://svgl.app/library/mulesoft.svg"
+  },
+  {
+    "name": "WorkOS",
+    "src": "assets/plugins/directory/workos.svg",
+    "source": "https://svgl.app/library/workos.svg"
+  },
+  {
+    "name": "Auth0",
+    "src": "assets/plugins/directory/auth0.svg",
+    "source": "https://svgl.app/library/auth0.svg"
+  },
+  {
+    "name": "Clerk",
+    "src": "assets/plugins/directory/clerk.svg",
+    "source": "https://svgl.app/library/clerk-icon-light.svg"
+  },
+  {
+    "name": "Cloudflare",
+    "src": "assets/plugins/directory/cloudflare.svg",
+    "source": "https://svgl.app/library/cloudflare.svg"
+  },
+  {
+    "name": "Amazon Web Services",
+    "src": "assets/plugins/directory/amazon-web-services.svg",
+    "source": "https://svgl.app/library/aws_light.svg"
+  },
+  {
+    "name": "Microsoft Azure",
+    "src": "assets/plugins/directory/microsoft-azure.svg",
+    "source": "https://svgl.app/library/azure.svg"
+  },
+  {
+    "name": "MongoDB",
+    "src": "assets/plugins/directory/mongodb.svg",
+    "source": "https://svgl.app/library/mongodb-icon-light.svg"
+  },
+  {
+    "name": "MySQL",
+    "src": "assets/plugins/directory/mysql.svg",
+    "source": "https://svgl.app/library/mysql-icon-light.svg"
+  },
+  {
+    "name": "PostgreSQL",
+    "src": "assets/plugins/directory/postgresql.svg",
+    "source": "https://svgl.app/library/postgresql.svg"
+  },
+  {
+    "name": "Redis",
+    "src": "assets/plugins/directory/redis.svg",
+    "source": "https://svgl.app/library/redis.svg"
+  },
+  {
+    "name": "PlanetScale",
+    "src": "assets/plugins/directory/planetscale.svg",
+    "source": "https://svgl.app/library/planetscale.svg"
+  },
+  {
+    "name": "Neon",
+    "src": "assets/plugins/directory/neon.svg",
+    "source": "https://svgl.app/library/neon.svg"
+  },
+  {
+    "name": "Firebase",
+    "src": "assets/plugins/directory/firebase.svg",
+    "source": "https://svgl.app/library/firebase.svg"
+  },
+  {
+    "name": "Appwrite",
+    "src": "assets/plugins/directory/appwrite.svg",
+    "source": "https://svgl.app/library/appwrite.svg"
+  },
+  {
+    "name": "Digital Ocean",
+    "src": "assets/plugins/directory/digital-ocean.svg",
+    "source": "https://svgl.app/library/digitalocean.svg"
+  },
+  {
+    "name": "Heroku",
+    "src": "assets/plugins/directory/heroku.svg",
+    "source": "https://svgl.app/library/heroku.svg"
+  },
+  {
+    "name": "Netlify",
+    "src": "assets/plugins/directory/netlify.svg",
+    "source": "https://svgl.app/library/netlify.svg"
+  },
+  {
+    "name": "Vercel",
+    "src": "assets/plugins/directory/vercel.svg",
+    "source": "https://svgl.app/library/vercel.svg"
+  },
+  {
+    "name": "Render",
+    "src": "assets/plugins/directory/render.svg",
+    "source": "https://svgl.app/library/render_black.svg"
+  },
+  {
+    "name": "Railway",
+    "src": "assets/plugins/directory/railway.svg",
+    "source": "https://svgl.app/library/railway.svg"
+  },
+  {
+    "name": "GitHub Copilot",
+    "src": "assets/plugins/directory/github-copilot.svg",
+    "source": "https://svgl.app/library/copilot.svg"
+  },
+  {
+    "name": "Postman",
+    "src": "assets/plugins/directory/postman.svg",
+    "source": "https://svgl.app/library/postman.svg"
+  },
+  {
+    "name": "Docker",
+    "src": "assets/plugins/directory/docker.svg",
+    "source": "https://svgl.app/library/docker.svg"
+  },
+  {
+    "name": "Atlassian",
+    "src": "assets/plugins/directory/atlassian.svg",
+    "source": "https://svgl.app/library/atlassian.svg"
+  },
+  {
+    "name": "Obsidian",
+    "src": "assets/plugins/directory/obsidian.svg",
+    "source": "https://svgl.app/library/obsidian.svg"
+  },
+  {
+    "name": "Milanote",
+    "src": "assets/plugins/directory/milanote.svg",
+    "source": "https://svgl.app/library/milanote-light.svg"
+  },
+  {
+    "name": "Loom",
+    "src": "assets/plugins/directory/loom.svg",
+    "source": "https://svgl.app/library/loom.svg"
+  },
+  {
+    "name": "Front",
+    "src": "assets/plugins/directory/front.svg",
+    "source": "https://svgl.app/library/front.svg"
+  },
+  {
+    "name": "Mattermost",
+    "src": "assets/plugins/directory/mattermost.svg",
+    "source": "https://svgl.app/library/mattermost-light.svg"
+  },
+  {
+    "name": "Zulip",
+    "src": "assets/plugins/directory/zulip.svg",
+    "source": "https://svgl.app/library/zulip.svg"
+  },
+  {
+    "name": "Discourse",
+    "src": "assets/plugins/directory/discourse.svg",
+    "source": "https://svgl.app/library/discourse.svg"
+  },
+  {
+    "name": "Canva",
+    "src": "assets/plugins/directory/canva.svg",
+    "source": "https://svgl.app/library/canva.svg"
+  },
+  {
+    "name": "Adobe",
+    "src": "assets/plugins/directory/adobe.svg",
+    "source": "https://svgl.app/library/adobe.svg"
+  },
+  {
+    "name": "Adobe Sign",
+    "src": "assets/plugins/directory/adobe-sign.svg",
+    "source": "https://svgl.app/library/adobe-sign.svg"
+  },
+  {
+    "name": "Documenso",
+    "src": "assets/plugins/directory/documenso.svg",
+    "source": "https://svgl.app/library/documenso.svg"
+  },
+  {
+    "name": "n8n",
+    "src": "assets/plugins/directory/n8n.svg",
+    "source": "https://svgl.app/library/n8n.svg"
+  },
+  {
+    "name": "Ahrefs",
+    "src": "assets/plugins/directory/ahrefs.svg",
+    "source": "https://svgl.app/library/ahrefs.svg"
+  },
+  {
+    "name": "Sourcegraph",
+    "src": "assets/plugins/directory/sourcegraph.svg",
+    "source": "https://svgl.app/library/sourcegraph.svg"
+  },
+  {
+    "name": "Bitwarden",
+    "src": "assets/plugins/directory/bitwarden.svg",
+    "source": "https://svgl.app/library/bitwarden.svg"
+  },
+  {
+    "name": "1Password",
+    "src": "assets/plugins/directory/1password.svg",
+    "source": "https://svgl.app/library/1password-light.svg"
+  }
+]

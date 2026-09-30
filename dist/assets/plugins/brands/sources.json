@@ -1,0 +1,102 @@
+[
+  {
+    "name": "PayPal",
+    "file": "paypal.svg",
+    "source": "https://svgl.app/library/paypal.svg"
+  },
+  {
+    "name": "Discord",
+    "file": "discord.svg",
+    "source": "https://svgl.app/library/discord.svg"
+  },
+  {
+    "name": "Algolia",
+    "file": "algolia.svg",
+    "source": "https://svgl.app/library/algolia.svg"
+  },
+  {
+    "name": "Google",
+    "file": "google.svg",
+    "source": "https://svgl.app/library/google.svg"
+  },
+  {
+    "name": "Coinbase",
+    "file": "coinbase.svg",
+    "source": "https://svgl.app/library/coinbase.svg"
+  },
+  {
+    "name": "GitLab",
+    "file": "gitlab.svg",
+    "source": "https://svgl.app/library/gitlab.svg"
+  },
+  {
+    "name": "Microsoft",
+    "file": "microsoft.svg",
+    "source": "https://svgl.app/library/microsoft.svg"
+  },
+  {
+    "name": "Linear",
+    "file": "linear.svg",
+    "source": "https://svgl.app/library/linear.svg"
+  },
+  {
+    "name": "Salesforce",
+    "file": "salesforce.svg",
+    "source": "https://svgl.app/library/salesforce.svg"
+  },
+  {
+    "name": "Pinterest",
+    "file": "pinterest.svg",
+    "source": "https://svgl.app/library/pinterest.svg"
+  },
+  {
+    "name": "Reddit",
+    "file": "reddit.svg",
+    "source": "https://svgl.app/library/reddit.svg"
+  },
+  {
+    "name": "Shopify",
+    "file": "shopify.svg",
+    "source": "https://svgl.app/library/shopify.svg"
+  },
+  {
+    "name": "Webflow",
+    "file": "webflow.svg",
+    "source": "https://svgl.app/library/webflow.svg"
+  },
+  {
+    "name": "Slack",
+    "file": "slack.svg",
+    "source": "https://svgl.app/library/slack.svg"
+  },
+  {
+    "name": "Asana",
+    "file": "asana.svg",
+    "source": "https://svgl.app/library/asana-logo.svg"
+  },
+  {
+    "name": "Zoom",
+    "file": "zoom.svg",
+    "source": "https://svgl.app/library/zoom.svg"
+  },
+  {
+    "name": "Supabase",
+    "file": "supabase.svg",
+    "source": "https://svgl.app/library/supabase.svg"
+  },
+  {
+    "name": "PostHog",
+    "file": "posthog.svg",
+    "source": "https://svgl.app/library/posthog.svg"
+  },
+  {
+    "name": "Google Analytics",
+    "file": "google-analytics.svg",
+    "source": "https://svgl.app/library/google-analytics.svg"
+  },
+  {
+    "name": "Stripe",
+    "file": "stripe.svg",
+    "source": "https://svgl.app/library/stripe.svg"
+  }
+]

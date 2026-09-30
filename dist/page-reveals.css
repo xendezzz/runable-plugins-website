@@ -1,0 +1,3 @@
+.reveal-pending{opacity:0;filter:blur(9px)}
+@media(prefers-reduced-motion:reduce){.reveal-pending{opacity:1;filter:none}}
+@media print{.reveal-pending{opacity:1;filter:none}}
